@@ -1,2 +1,0 @@
-# .github
-Motomtech Marketplace Project
